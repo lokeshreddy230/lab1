@@ -8,8 +8,8 @@
 
 ## Live Link
 
-**Live Application:** 
-**GitHub Repository:** 
+**Live Application:*https://lokeshreddy230.github.io/lab1/* 
+**GitHub Repository:*https://github.com/lokeshreddy230/lab1.git* 
 
 ## Objective
 

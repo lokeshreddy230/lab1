@@ -9,8 +9,8 @@ app.get("/", (req, res) => {
 
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "J. Karthik",
-    section: "CSE-QE-2A"
+    name: "MARAMREDDY LOKESH REDDY ",
+    section: "CSE-QE-2b"
   });
 });
 
