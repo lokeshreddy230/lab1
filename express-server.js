@@ -22,7 +22,7 @@ app.use((req, res) => {
   res.status(404).send("404 - Page not found");
 });
 
-const port = process.env.PORT || 3000;
+const port = Number(process.env.PORT) || 3000;
 
 app.listen(port, () => {
   console.log(`Express server running on port ${port}`);
