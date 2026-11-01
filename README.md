@@ -8,7 +8,7 @@
 
 ## Live Link
 
-**Live Application:** https://bdf-labs-t8dn.onrender.com/about  
+**Live Application:** https://lab1-1-h65d.onrender.com/s  
 **GitHub Repository:** https://github.com/lokeshreddy230/lab1
 
 ## Objective
