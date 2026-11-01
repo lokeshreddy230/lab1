@@ -8,8 +8,8 @@
 
 ## Live Link
 
-**Live Application:*https://lokeshreddy230.github.io/lab1/* 
-**GitHub Repository:*https://github.com/lokeshreddy230/lab1.git* 
+**Live Application:** https://bdf-labs-t8dn.onrender.com/about  
+**GitHub Repository:** https://github.com/lokeshreddy230/lab1
 
 ## Objective
 
