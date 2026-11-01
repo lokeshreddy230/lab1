@@ -8,7 +8,7 @@
 
 ## Live Link
 
-**Live Application:** https://lab1-1-h65d.onrender.com/s  
+**Live Application:** https://lab1-1-h65d.onrender.com/  
 **GitHub Repository:** https://github.com/lokeshreddy230/lab1
 
 ## Objective
